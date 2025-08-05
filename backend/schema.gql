@@ -1,0 +1,110 @@
+# ------------------------------------------------------
+# THIS FILE WAS AUTOMATICALLY GENERATED (DO NOT MODIFY)
+# ------------------------------------------------------
+
+type AccountEntity {
+  avatarUrl: String
+  city: String!
+  description: String!
+  email: String!
+  firstName: String!
+  id: ID!
+  isActive: Boolean!
+  lastName: String!
+  password: String!
+  stack: [String!]!
+  subscribers: [Subscription!]!
+  subscribersAmount: Int!
+  subscriptions: [Subscription!]!
+  username: String!
+}
+
+input CreateAccountDto {
+  avatarUrl: String
+  city: String!
+  description: String!
+  email: String!
+  firstName: String
+  isActive: Boolean!
+  lastName: String
+  password: String!
+  stack: [String!]!
+  subscribersAmount: Int
+  username: String!
+}
+
+input CreateRoleDto {
+  description: String!
+  value: String!
+}
+
+input CreateUserInput {
+  email: String!
+  name: String
+}
+
+"""
+A date-time string at UTC, such as 2019-12-03T09:54:33Z, compliant with the date-time format.
+"""
+scalar DateTime
+
+type Mutation {
+  createAccount(createAccountDto: CreateAccountDto!): AccountEntity!
+  createRole(createRoleDto: CreateRoleDto!): Role!
+  createUser(createUser: CreateUserInput!): UserEntity!
+  deleteAccount(id: Int!): Boolean!
+  deleteImage: AccountEntity!
+  deleteMe: Boolean!
+  removeUser(id: Float!): Float!
+  subscribe(accountId: Int!): Boolean!
+  unsubscribe(accountId: Int!): Boolean!
+  updateAccount(id: Int!, updateAccountDto: CreateAccountDto!): AccountEntity!
+  updateMe(updateAccountDto: CreateAccountDto!): AccountEntity!
+  updateUser(updateUser: UpdateUserInput!): UserEntity!
+  uploadImage: AccountEntity!
+}
+
+type PaginatedAccounts {
+  items: [AccountEntity!]!
+  page: Float!
+  pages: Float!
+  size: Float!
+  total: Float!
+}
+
+type Query {
+  account(role: String!): Role!
+  accounts(city: String, firstName: String, lastName: String, orderBy: String, page: Int! = 1, size: Int! = 50, stack: String): PaginatedAccounts!
+  getAllUsers: [UserEntity!]!
+  getOneUser(id: Int!): UserEntity!
+  me: AccountEntity!
+  subscribers(accountId: Int!): [AccountEntity!]!
+  subscriptions: [AccountEntity!]!
+  testAccounts: [AccountEntity!]!
+}
+
+type Role {
+  description: String!
+  id: ID!
+  value: String!
+}
+
+type Subscription {
+  account: AccountEntity!
+  id: ID!
+  subscriber: AccountEntity!
+}
+
+input UpdateUserInput {
+  email: String
+  id: ID!
+  name: String
+}
+
+type UserEntity {
+  createdAt: DateTime!
+  email: String!
+  id: Int!
+  name: String
+  updatedAt: DateTime!
+}

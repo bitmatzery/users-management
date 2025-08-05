@@ -1,0 +1,202 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"0779df8e-1c42-431c-a4c1-928935adf615\" name=\"Changes\" comment=\"version: 1.0.0\">\r\n      <change afterPath=\"$PROJECT_DIR$/.env\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.gitignore\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/.gitignore\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/Users Management App.iml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/Users Management.iml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/dataSources.local.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/dataSources.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/encodings.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/graphql-settings.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/modules.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/prettier.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/vcs.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/README.md\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/backend/.eslintrc.js\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/backend/.gitignore\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/backend/.prettierrc\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/backend/Dockerfile\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/backend/README.md\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/backend/nest-cli.json\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/backend/package-lock.json\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/backend/package.json\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/backend/schema.gql\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/backend/src/app.module.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/backend/src/auth/auth.guard.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/backend/src/auth/auth.module.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/backend/src/auth/auth.resolver.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/backend/src/auth/auth.service.spec.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/backend/src/auth/auth.service.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/backend/src/auth/jwt.strategy.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/backend/src/common/file-upload.module.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/backend/src/common/http-exception.filter.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/backend/src/config/app.config.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/backend/src/config/database.config.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/backend/src/config/index.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/backend/src/db/migrations/1728806465930-PASSWORD_ADD.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/backend/src/db/migrations/1728818330446-PASS.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/backend/src/db/migrations/1729677498661-EXAMPLE_NAME.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/backend/src/db/typeorm.config.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/backend/src/main.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/backend/src/migrations/1728814262332-PASSWORD_ADD.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/backend/src/profile/account.module.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/backend/src/profile/dto/account/.idea/.gitignore\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/backend/src/profile/dto/account/.idea/account.iml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/backend/src/profile/dto/account/.idea/modules.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/backend/src/profile/dto/account/.idea/vcs.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/backend/src/profile/dto/account/create-account.dto.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/backend/src/profile/dto/account/create-role.dto.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/backend/src/profile/dto/account/paginated-accounts.dto.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/backend/src/profile/entities/account/account.entity.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/backend/src/profile/entities/account/roles.entity.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/backend/src/profile/entities/account/subscription.entity.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/backend/src/profile/resolvers/account/account.resolver.spec.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/backend/src/profile/resolvers/account/account.resolver.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/backend/src/profile/services/account/account.service.spec.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/backend/src/profile/services/account/account.service.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/backend/src/users/entities/user.entity.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/backend/src/users/inputs/create-user.input.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/backend/src/users/inputs/update-user.input.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/backend/src/users/resolvers/user/user.resolver.spec.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/backend/src/users/resolvers/user/user.resolver.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/backend/src/users/services/user/user.service.spec.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/backend/src/users/services/user/user.service.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/backend/src/users/users.module.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/backend/test/app.e2e-spec.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/backend/test/jest-e2e.json\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/backend/tsconfig.build.json\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/backend/tsconfig.json\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/docker-compose.yml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/frontend/.browserslistrc\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/frontend/.dockerignore\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/frontend/.editorconfig\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/frontend/.gitignore\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/frontend/Dockerfile\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/frontend/README.md\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/frontend/angular.json\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/frontend/karma.conf.js\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/frontend/nginx.conf\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/frontend/package-lock.json\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/frontend/package.json\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/frontend/proxy.conf.json\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/frontend/src/app/app-routing.module.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/frontend/src/app/app.component.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/frontend/src/app/app.component.scss\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/frontend/src/app/app.component.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/frontend/src/app/app.module.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/frontend/src/app/components/icon/icon.component.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/frontend/src/app/components/icon/icon.module.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/frontend/src/app/components/nav.component.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/frontend/src/app/components/user-form/user-form.component.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/frontend/src/app/components/user-form/user-form.module.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/frontend/src/app/graphql.module.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/frontend/src/app/interfaces.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/frontend/src/app/pages/main/main.component.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/frontend/src/app/pages/main/main.component.scss\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/frontend/src/app/pages/main/main.component.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/frontend/src/app/pages/main/main.module.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/frontend/src/app/pages/users/gql/create-user.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/frontend/src/app/pages/users/gql/delete-user.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/frontend/src/app/pages/users/gql/get-all-users.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/frontend/src/app/pages/users/gql/get-one-user.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/frontend/src/app/pages/users/gql/update-user.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/frontend/src/app/pages/users/user/user.component.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/frontend/src/app/pages/users/user/user.component.scss\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/frontend/src/app/pages/users/user/user.component.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/frontend/src/app/pages/users/users.component.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/frontend/src/app/pages/users/users.component.scss\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/frontend/src/app/pages/users/users.component.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/frontend/src/app/pages/users/users.module.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/frontend/src/app/pages/users/users.service.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/frontend/src/assets/.gitkeep\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/frontend/src/environments/environment.prod.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/frontend/src/environments/environment.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/frontend/src/favicon.ico\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/frontend/src/index.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/frontend/src/main.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/frontend/src/polyfills.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/frontend/src/styles.scss\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/frontend/src/test.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/frontend/tsconfig.app.json\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/frontend/tsconfig.json\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/frontend/tsconfig.spec.json\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ChangesViewManager\">\r\n    <option name=\"groupingKeys\">\r\n      <option value=\"directory\" />\r\n      <option value=\"repository\" />\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n    <option name=\"ROOT_SYNC\" value=\"SYNC\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;bitmatzery&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubDefaultAccount\">\r\n    <option name=\"defaultAccountId\" value=\"715a7b44-c99d-4e21-b040-4981f348179b\" />\r\n  </component>\r\n  <component name=\"GithubPullRequestsUISettings\"><![CDATA[{\r\n  \"selectedUrlAndAccountId\": {\r\n    \"url\": \"https://github.com/bitmatzery/users-management.git\",\r\n    \"accountId\": \"715a7b44-c99d-4e21-b040-4981f348179b\"\r\n  }\r\n}]]></component>\r\n  <component name=\"ProblemsViewState\">\r\n    <option name=\"selectedTabId\" value=\"QODANA_PROBLEMS_VIEW_TAB\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 8\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2m6fAJg7tQUOTlzYGoRYXglnHKv\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"ModuleVcsDetector.initialDetectionPerformed\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"RunOnceActivity.git.unshallow\": \"true\",\r\n    \"git-widget-placeholder\": \"master\",\r\n    \"ignore.virus.scanning.warn.message\": \"true\",\r\n    \"last_opened_file_path\": \"E:/FrontEnd/JS/Angular/Full-stack Apps/Full-stack NestJs Angular GraphQL Docker/Users Management App\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"nodejs_package_manager_path\": \"npm\",\r\n    \"npm.build.executor\": \"Run\",\r\n    \"npm.migration:create (1).executor\": \"Run\",\r\n    \"npm.migration:create.executor\": \"Run\",\r\n    \"npm.migration:run.executor\": \"Run\",\r\n    \"npm.migration:show.executor\": \"Run\",\r\n    \"npm.start (1).executor\": \"Run\",\r\n    \"npm.start-local.executor\": \"Run\",\r\n    \"npm.start.executor\": \"Run\",\r\n    \"npm.start:dev.executor\": \"Run\",\r\n    \"npm.start:prod.executor\": \"Run\",\r\n    \"settings.editor.selected.configurable\": \"org.jetbrains.plugins.github.ui.GithubSettingsConfigurable\",\r\n    \"ts.external.directory.path\": \"C:\\\\Program Files (x86)\\\\WebStorm\\\\WebStorm2025.1\\\\plugins\\\\javascript-plugin\\\\jsLanguageServicesImpl\\\\external\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  },\r\n  \"keyToStringList\": {\r\n    \"ChangesTree.GroupingKeys\": [\r\n      \"directory\",\r\n      \"repository\"\r\n    ],\r\n    \"DatabaseDriversLRU\": [\r\n      \"postgresql\"\r\n    ]\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"E:\\FrontEnd\\JS\\Angular\\Full-stack Apps\\Users Management App\\pgdata\" />\r\n      <recent name=\"D:\\Дела.Работа.Учёба\\FrontEnd\\Практика JS\\Angular\\Full-stack Apps\\FullStack-TikTailk\\backend\\src\\profile\\dto\\account\" />\r\n      <recent name=\"D:\\Дела.Работа.Учёба\\FrontEnd\\Практика JS\\Angular\\Full-stack Apps\\FullStack-TikTailk\\backend\\src\\profile\\model\" />\r\n      <recent name=\"D:\\Дела.Работа.Учёба\\FrontEnd\\Практика JS\\Angular\\Full-stack Apps\\FullStack-TikTailk\\backend\" />\r\n      <recent name=\"D:\\Дела.Работа.Учёба\\FrontEnd\\Практика JS\\Angular\\Full-stack Apps\\FullStack-TikTailk\\backend\\src\" />\r\n    </key>\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"D:\\Дела.Работа.Учёба\\FrontEnd\\Практика JS\\Angular\\Full-stack Apps\\FullStack-TikTailk\\backend\" />\r\n      <recent name=\"D:\\Дела.Работа.Учёба\\FrontEnd\\Практика JS\\Angular\\Full-stack Apps\\FullStack-TikTailk\\backend\\src\\profile\\entities\\account\" />\r\n      <recent name=\"D:\\Дела.Работа.Учёба\\FrontEnd\\Практика JS\\Angular\\Full-stack Apps\\FullStack-TikTailk\\backend\\src\\profile\" />\r\n      <recent name=\"D:\\Дела.Работа.Учёба\\FrontEnd\\Практика JS\\Angular\\Full-stack Apps\\FullStack-TikTailk\\backend\\src\\profile\\entities\\roles\" />\r\n      <recent name=\"D:\\Дела.Работа.Учёба\\FrontEnd\\Практика JS\\Angular\\Full-stack Apps\\FullStack-TikTailk\\backend\\src\\profile\\model\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"npm.start-local\">\r\n    <configuration name=\"build\" type=\"js.build_tools.npm\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <package-json value=\"$PROJECT_DIR$/backend/package.json\" />\r\n      <command value=\"run\" />\r\n      <scripts>\r\n        <script value=\"build\" />\r\n      </scripts>\r\n      <node-interpreter value=\"project\" />\r\n      <envs />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"start (1)\" type=\"js.build_tools.npm\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <package-json value=\"$PROJECT_DIR$/frontend/package.json\" />\r\n      <command value=\"run\" />\r\n      <scripts>\r\n        <script value=\"start\" />\r\n      </scripts>\r\n      <node-interpreter value=\"project\" />\r\n      <envs />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"start-local\" type=\"js.build_tools.npm\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <package-json value=\"$PROJECT_DIR$/frontend/package.json\" />\r\n      <command value=\"run\" />\r\n      <scripts>\r\n        <script value=\"start-local\" />\r\n      </scripts>\r\n      <node-interpreter value=\"project\" />\r\n      <envs />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"start\" type=\"js.build_tools.npm\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <package-json value=\"$PROJECT_DIR$/backend/package.json\" />\r\n      <command value=\"run\" />\r\n      <scripts>\r\n        <script value=\"start\" />\r\n      </scripts>\r\n      <node-interpreter value=\"project\" />\r\n      <envs />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"start:prod\" type=\"js.build_tools.npm\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <package-json value=\"$PROJECT_DIR$/backend/package.json\" />\r\n      <command value=\"run\" />\r\n      <scripts>\r\n        <script value=\"start:prod\" />\r\n      </scripts>\r\n      <node-interpreter value=\"project\" />\r\n      <envs />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"npm.start-local\" />\r\n        <item itemvalue=\"npm.start (1)\" />\r\n        <item itemvalue=\"npm.start\" />\r\n        <item itemvalue=\"npm.build\" />\r\n        <item itemvalue=\"npm.start:prod\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-WS-251.23774.424\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"0779df8e-1c42-431c-a4c1-928935adf615\" name=\"Changes\" comment=\"\" />\r\n      <created>1726401801444</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1726401801444</updated>\r\n      <workItem from=\"1726401803132\" duration=\"21233000\" />\r\n      <workItem from=\"1726667812258\" duration=\"1992000\" />\r\n      <workItem from=\"1726681001819\" duration=\"539000\" />\r\n      <workItem from=\"1726750782401\" duration=\"46134000\" />\r\n      <workItem from=\"1727435966848\" duration=\"134000\" />\r\n      <workItem from=\"1728733973700\" duration=\"58972000\" />\r\n      <workItem from=\"1729594771853\" duration=\"3415000\" />\r\n      <workItem from=\"1729598526782\" duration=\"6160000\" />\r\n      <workItem from=\"1729675617181\" duration=\"4199000\" />\r\n      <workItem from=\"1753636124861\" duration=\"32000\" />\r\n      <workItem from=\"1753636209961\" duration=\"171000\" />\r\n      <workItem from=\"1753710636458\" duration=\"4156000\" />\r\n      <workItem from=\"1753715698285\" duration=\"8438000\" />\r\n      <workItem from=\"1753790865322\" duration=\"9367000\" />\r\n      <workItem from=\"1754049797561\" duration=\"13800000\" />\r\n      <workItem from=\"1754382744555\" duration=\"5832000\" />\r\n      <workItem from=\"1754390111025\" duration=\"1734000\" />\r\n      <workItem from=\"1754391932516\" duration=\"506000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"version: 1.0.0\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1754136201009</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1754136201009</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"2\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"version: 1.0.0\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"version: 1.0.0\" />\r\n  </component>\r\n  <component name=\"com.apollographql.ijplugin.settings.ProjectSettingsState\">\r\n    <option name=\"hasEnabledGraphQLPluginApolloKotlinSupport\" value=\"true\" />\r\n    <option name=\"lspPassPathToSuperGraphYaml\" value=\"false\" />\r\n    <option name=\"telemetryInstanceId\" value=\"98dfb47b-9c85-42a4-8e03-dceb509da800\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 4f0e68f167696a5666f10f86779d597d1efac30c)
++++ b/.idea/workspace.xml	(date 1754393451327)
+@@ -5,129 +5,8 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="0779df8e-1c42-431c-a4c1-928935adf615" name="Changes" comment="version: 1.0.0">
+-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/Users Management App.iml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/Users Management.iml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/graphql-settings.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/backend/.eslintrc.js" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/backend/.gitignore" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/backend/.prettierrc" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/backend/Dockerfile" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/backend/README.md" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/backend/nest-cli.json" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/backend/package-lock.json" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/backend/package.json" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/backend/schema.gql" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/backend/src/app.module.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/backend/src/auth/auth.guard.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/backend/src/auth/auth.module.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/backend/src/auth/auth.resolver.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/backend/src/auth/auth.service.spec.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/backend/src/auth/auth.service.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/backend/src/auth/jwt.strategy.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/backend/src/common/file-upload.module.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/backend/src/common/http-exception.filter.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/backend/src/config/app.config.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/backend/src/config/database.config.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/backend/src/config/index.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/backend/src/db/migrations/1728806465930-PASSWORD_ADD.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/backend/src/db/migrations/1728818330446-PASS.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/backend/src/db/migrations/1729677498661-EXAMPLE_NAME.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/backend/src/db/typeorm.config.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/backend/src/main.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/backend/src/migrations/1728814262332-PASSWORD_ADD.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/backend/src/profile/account.module.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/backend/src/profile/dto/account/.idea/.gitignore" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/backend/src/profile/dto/account/.idea/account.iml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/backend/src/profile/dto/account/.idea/modules.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/backend/src/profile/dto/account/.idea/vcs.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/backend/src/profile/dto/account/create-account.dto.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/backend/src/profile/dto/account/create-role.dto.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/backend/src/profile/dto/account/paginated-accounts.dto.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/backend/src/profile/entities/account/account.entity.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/backend/src/profile/entities/account/roles.entity.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/backend/src/profile/entities/account/subscription.entity.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/backend/src/profile/resolvers/account/account.resolver.spec.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/backend/src/profile/resolvers/account/account.resolver.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/backend/src/profile/services/account/account.service.spec.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/backend/src/profile/services/account/account.service.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/backend/src/users/entities/user.entity.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/backend/src/users/inputs/create-user.input.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/backend/src/users/inputs/update-user.input.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/backend/src/users/resolvers/user/user.resolver.spec.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/backend/src/users/resolvers/user/user.resolver.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/backend/src/users/services/user/user.service.spec.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/backend/src/users/services/user/user.service.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/backend/src/users/users.module.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/backend/test/app.e2e-spec.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/backend/test/jest-e2e.json" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/backend/tsconfig.build.json" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/backend/tsconfig.json" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/frontend/.browserslistrc" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/frontend/.dockerignore" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/frontend/.editorconfig" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/frontend/.gitignore" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/frontend/Dockerfile" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/frontend/README.md" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/frontend/angular.json" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/frontend/karma.conf.js" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/frontend/nginx.conf" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/frontend/proxy.conf.json" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/frontend/src/app/app-routing.module.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/frontend/src/app/app.component.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/frontend/src/app/app.component.scss" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/frontend/src/app/app.component.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/frontend/src/app/app.module.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/frontend/src/app/components/icon/icon.component.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/frontend/src/app/components/icon/icon.module.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/frontend/src/app/components/nav.component.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/frontend/src/app/components/user-form/user-form.component.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/frontend/src/app/components/user-form/user-form.module.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/frontend/src/app/graphql.module.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/frontend/src/app/interfaces.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/main/main.component.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/main/main.component.scss" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/main/main.component.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/main/main.module.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/users/gql/create-user.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/users/gql/delete-user.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/users/gql/get-all-users.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/users/gql/get-one-user.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/users/gql/update-user.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/users/user/user.component.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/users/user/user.component.scss" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/users/user/user.component.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/users/users.component.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/users/users.component.scss" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/users/users.component.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/users/users.module.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/users/users.service.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/frontend/src/assets/.gitkeep" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/frontend/src/environments/environment.prod.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/frontend/src/environments/environment.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/frontend/src/favicon.ico" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/frontend/src/index.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/frontend/src/main.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/frontend/src/polyfills.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/frontend/src/styles.scss" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/frontend/src/test.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/frontend/tsconfig.app.json" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/frontend/tsconfig.json" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/frontend/tsconfig.spec.json" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -175,7 +54,7 @@
+     "ModuleVcsDetector.initialDetectionPerformed": "true",
+     "RunOnceActivity.ShowReadmeOnStart": "true",
+     "RunOnceActivity.git.unshallow": "true",
+-    "git-widget-placeholder": "master",
++    "git-widget-placeholder": "main",
+     "ignore.virus.scanning.warn.message": "true",
+     "last_opened_file_path": "E:/FrontEnd/JS/Angular/Full-stack Apps/Full-stack NestJs Angular GraphQL Docker/Users Management App",
+     "node.js.detected.package.eslint": "true",
+@@ -193,6 +72,7 @@
+     "npm.start.executor": "Run",
+     "npm.start:dev.executor": "Run",
+     "npm.start:prod.executor": "Run",
++    "prettierjs.PrettierConfiguration.Package": "E:\\FrontEnd\\JS\\Angular\\Full-stack Apps\\Full-stack NestJs Angular GraphQL Docker\\Users Management App\\backend\\node_modules\\prettier",
+     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+     "ts.external.directory.path": "C:\\Program Files (x86)\\WebStorm\\WebStorm2025.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+     "vue.rearranger.settings.migration": "true"
+@@ -316,7 +196,7 @@
+       <workItem from="1754049797561" duration="13800000" />
+       <workItem from="1754382744555" duration="5832000" />
+       <workItem from="1754390111025" duration="1734000" />
+-      <workItem from="1754391932516" duration="506000" />
++      <workItem from="1754391932516" duration="1501000" />
+     </task>
+     <task id="LOCAL-00001" summary="version: 1.0.0">
+       <option name="closed" value="true" />
+@@ -326,7 +206,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1754136201009</updated>
+     </task>
+-    <option name="localTasksCounter" value="2" />
++    <task id="LOCAL-00002" summary="version: 1.0.0">
++      <option name="closed" value="true" />
++      <created>1754392651379</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1754392651380</updated>
++    </task>
++    <option name="localTasksCounter" value="3" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+new file mode 100644
+--- /dev/null	(date 1754393060897)
++++ b/.idea/misc.xml	(date 1754393060897)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ExtraIDETweaksSettingsProject">
++    <option name="enableOpenEditorsShowRecentFiles" value="false" />
++  </component>
++</project>
+\ No newline at end of file
